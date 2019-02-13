@@ -20,5 +20,13 @@ https://mr0786280.github.io/Stepping-Into_JavaScript/
 		modified the test.js file and added the new code from the lesson on it
 		added another branch
 		practiced comparison and logical operators
+
+002.028 | While Loops
+	
+		modified the test.js file and added the new code from the lesson on it
+		added another branch
+		practiced while loops and also checked console to make sure the code was correct
+
+		
 		
 		
