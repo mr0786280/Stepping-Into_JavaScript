@@ -12,6 +12,13 @@ https://mr0786280.github.io/Stepping-Into_JavaScript/
 	
 002.023 | Else If Statement
 
-		modiefied the test.js file and added the new code from the lesson on it
+		modified the test.js file and added the new code from the lesson on it
 		added a new branch, I want to try doing this more often in homework - even if I don't have to 
+
+002.026 | Logical Operators
+
+		modified the test.js file and added the new code from the lesson on it
+		added another branch
+		practiced comparison and logical operators
+		
 		
