@@ -40,7 +40,7 @@ Break & Continue | Assignment 008
 		added branch Break-and-Continue
 		practiced this lesson and made sure through console that I was doing everything correctly
 		edit: went back before finish writing the line above because I was getting errors in my code
-		note: lessons aren't in order; I somehow skipped 8 and I don't know how
+		note: lessons aren't completed in order but I'm putting them in order in the readme to the best of my abilities; I somehow skipped 8 and I don't know how
 		
 		
 Practical Example using Loops | Assignment 009
