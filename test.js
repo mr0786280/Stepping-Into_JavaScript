@@ -1,17 +1,9 @@
+function getAverage(a,b,c,d,e,f){
 
-for (i = 0; i < 10; i++){
-	
-	if(i === 5 || i === 3) {
-		
-		continue;
-	}
-	
-	console.log(i);
-	
-	if (i === 7) {
-		
-		break;
-	}
+	var average = (a + b + c + d + e + f) /6;
+	console.log(average);
+	return average;
 }
 
-console.log ("I have broken out of the loop.");
+var myResult = getAverage(7,8,9,10,11,12);
+console.log("The average is " + myResult);

@@ -48,5 +48,11 @@ Practical Example using Loops | Assignment 009
 		modified the test.js file and added the new code from the lesson
 		added branch Practical-Example-Using-Loops
 		practiced using loops
-		noted: lesson not in order
+		noted: lessons are not all in order
 		
+Functions | Assignment 010
+	
+		modified the test.js file and added the new code from the lesson
+		added branch Functions
+		practice functions and made sure to check console so that I knew I was doing it correctly
+		Note: I think from here on out, the lessons should be in order? I don't know anymore
