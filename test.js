@@ -2,10 +2,9 @@ var links = document.getElementsByTagName("a");
 
 
 
-for (i = 1; i < links.length; i++) {
+for (i = 0; i < links.length; i++) {
+
+	links[i].className = "link" + i;
 	
-	console.log("This is link number" + i);	
+	
 }
-
-
-document.write("All the links are now looped.");
