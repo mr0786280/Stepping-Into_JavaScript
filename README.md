@@ -56,3 +56,10 @@ Functions | Assignment 010
 		added branch Functions
 		practice functions and made sure to check console so that I knew I was doing it correctly
 		Note: I think from here on out, the lessons should be in order? I don't know anymore
+		
+Variable Scope | Assignment 011
+
+		modified the test.js file and added the new code from the lesson
+		added branch Variable-Scope
+		practice functions and made sure I did them correctly by checking console
+		
