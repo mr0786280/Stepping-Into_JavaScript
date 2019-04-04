@@ -27,6 +27,12 @@ https://mr0786280.github.io/Stepping-Into_JavaScript/
 		added another branch
 		practiced while loops and also checked console to make sure the code was correct
 
+For Loops | Assignment 007
+
+		modified the test.js file and added the new code from the lesson
+		added branch For-Loops
+		practiced For Loops and also checked the console to make sure I was doing this correctly
+		Note: lessons after While Loops might not be in order since some of these are numbered differently?? I think 
 		
 		
 		
