@@ -34,5 +34,9 @@ For Loops | Assignment 007
 		practiced For Loops and also checked the console to make sure I was doing this correctly
 		Note: lessons after While Loops might not be in order since some of these are numbered differently?? I think 
 		
-		
-		
+Practical Example using Loops | Assignment 009
+
+		modified the test.js file and added the new code from the lesson
+		added branch Practical-Example-Using-Loops
+		practiced using loops
+		noted: lesson not in order
