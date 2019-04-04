@@ -32,7 +32,16 @@ For Loops | Assignment 007
 		modified the test.js file and added the new code from the lesson
 		added branch For-Loops
 		practiced For Loops and also checked the console to make sure I was doing this correctly
-		Note: lessons after While Loops might not be in order since some of these are numbered differently?? I think 
+		Note: lessons after While Loops might not be in order since some of these are numbered differently?? I think
+		
+Break & Continue | Assignment 008
+
+		modified the test.js file and added the new code from the lesson
+		added branch Break-and-Continue
+		practiced this lesson and made sure through console that I was doing everything correctly
+		edit: went back before finish writing the line above because I was getting errors in my code
+		note: lessons aren't in order; I somehow skipped 8 and I don't know how
+		
 		
 Practical Example using Loops | Assignment 009
 
@@ -40,3 +49,4 @@ Practical Example using Loops | Assignment 009
 		added branch Practical-Example-Using-Loops
 		practiced using loops
 		noted: lesson not in order
+		

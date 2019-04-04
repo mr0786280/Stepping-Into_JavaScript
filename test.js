@@ -1,4 +1,5 @@
-for (1 = 0; i < 10; i++) {
+
+for (i = 0; i < 10; i++){
 	
 	if(i === 5 || i === 3) {
 		
@@ -13,4 +14,4 @@ for (1 = 0; i < 10; i++) {
 	}
 }
 
-console.log("I have broken out of the loop.");
+console.log ("I have broken out of the loop.");
